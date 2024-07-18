@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24504040242",
+    "project_id": "flutter-storage-2a7d5",
+    "storage_bucket": "flutter-storage-2a7d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24504040242:android:d80d899a31260fc0f2752b",
+        "android_client_info": {
+          "package_name": "com.storage.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrlqv1u6BzJv4UvGKBERqoUAfAjyzCZqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
